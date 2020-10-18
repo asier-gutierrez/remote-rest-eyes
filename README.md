@@ -1,1 +1,3 @@
-# Remote-rest your view while you remotework!
+# Rest your eyes while you remote-work!
+
+Try live version: https://asier-gutierrez.github.io/remoterest-view
