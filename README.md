@@ -1,1 +1,1 @@
-# Telerest your view while you telework!
+# Remote-rest your view while you remotework!
