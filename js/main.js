@@ -1,6 +1,6 @@
 function onKeyPressed() {
     let begin = document.getElementById('input-date-from').value;
-    let end = document.getElementById('input-date-to').value;
+    let end = daysjs(document.getElementById('input-date-to').value).hour(23).minute(59);
     let numberHours = Number.parseInt(document.getElementById('input-hours').value);
     let forMinutes = Number.parseInt(document.getElementById('input-n-minutes').value);
 
